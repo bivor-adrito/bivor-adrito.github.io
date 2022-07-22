@@ -51,7 +51,7 @@ export class GlobalVars {
             link: 'https://www.linkedin.com/in/bivor-faruque',
         },
     ];
-
+    ///Dummy
     static skills: Array<TitledListItemInterface> = [
         {
             text: 'Programming/Markup Languages',
